@@ -240,7 +240,3 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
-/Duell_Py/case4.txt
-/Duell_Py/case3.txt
-/Duell_Py/case2.txt
-/Duell_Py/case1.txt

@@ -22,7 +22,31 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Board.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Computer.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Game.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Human.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Player.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Die.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Duell_Py.py" />
+    <Compile Include="Tournament.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ViewBoard.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
